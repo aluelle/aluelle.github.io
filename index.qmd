@@ -1,6 +1,13 @@
 ---
-title: "Angela Lülle"
+title: "Angela Lulle"
+image: avatar.jpg
+about:
+  template: solana
+  image-shape: round
+page-layout: full
 ---
+
+![](banner.jpg){width=100% style="margin-bottom: 30px;"}
 
 Hi, I'm Angela! I'm a PhD candidate in Economics at the [University of Namur](https://www.unamur.be/fr), 
 where I work under the supervision of [Catherine Guirkinger](https://catherine.guirkinger.com). 
