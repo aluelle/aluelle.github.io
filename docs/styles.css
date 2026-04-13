@@ -1,1 +1,16 @@
 /* css styles */
+.navbar {
+  position: absolute;
+  width: 100%;
+  background: transparent !important;
+  border-bottom: none !important;
+}
+
+.navbar-brand, .nav-link, .navbar-title {
+  color: white !important;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+
+.nav-link:hover {
+  color: #ddd !important;
+}
