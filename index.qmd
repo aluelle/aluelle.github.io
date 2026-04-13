@@ -1,15 +1,22 @@
 ---
-title: "Angela Lulle"
-image: avatar.jpg
-about:
-  template: solana
-  image-shape: round
+title: ""
 page-layout: full
 ---
 
-![](banner.jpg){width=100% style="margin-bottom: 30px;"}
+::: {.banner-image}
+![](banner.png){width=100%}
+:::
 
+:::: {.about-section}
+::: {.headshot}
+![](avatar.jpg)
+:::
+
+::: {.bio-text}
 Hi, I'm Angela! I'm a PhD candidate in Economics at the [University of Namur](https://www.unamur.be/fr), 
 where I work under the supervision of [Catherine Guirkinger](https://catherine.guirkinger.com). 
 I am a research fellow of the [F.N.R.S.](https://www.frs-fnrs.be/en) and affiliated with the 
 [Center of Research in Development Economics (CRED-DeFiPP)](https://defipp.unamur.be/research-centers/cred).
+:::
+::::
+`

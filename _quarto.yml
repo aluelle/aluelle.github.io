@@ -12,8 +12,6 @@ website:
         text: Research
       - href: cv.qmd
         text: CV
-      - href: blog/index.qmd
-        text: Blog
       - href: photography.qmd
         text: Photography
       - href: contact.qmd

@@ -1,16 +1,95 @@
-/* css styles */
-.navbar {
-  position: absolute;
-  width: 100%;
+/* ============================================
+   NAVBAR
+   ============================================ */
+body > nav.navbar, .navbar {
+  position: absolute !important;
+  width: 100% !important;
+  z-index: 1000 !important;
+  background-color: transparent !important;
   background: transparent !important;
   border-bottom: none !important;
+  box-shadow: none !important;
 }
 
-.navbar-brand, .nav-link, .navbar-title {
+.navbar .navbar-brand,
+.navbar .nav-link,
+.navbar .navbar-title {
   color: white !important;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.7);
 }
 
-.nav-link:hover {
+.navbar .nav-link:hover {
   color: #ddd !important;
+}
+
+/* ============================================
+   FULL WIDTH FIX
+   ============================================ */
+body {
+  overflow-x: hidden;
+}
+
+#quarto-content,
+.page-layout-full .content {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: 100% !important;
+}
+
+/* ============================================
+   BANNER
+   ============================================ */
+.banner-image {
+  margin-top: -56px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.banner-image img {
+  width: 100vw;
+  height: 300px;
+  object-fit: cover;
+  display: block;
+}
+
+/* ============================================
+   ABOUT SECTION
+   ============================================ */
+.about-section {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+/* ============================================
+   HEADSHOT
+   ============================================ */
+.headshot {
+  width: 180px;
+  height: 180px;
+  flex-shrink: 0;
+}
+
+.headshot img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* ============================================
+   BIO TEXT
+   ============================================ */
+.bio-text {
+  font-size: 1.05rem;
+  line-height: 1.7;
 }
