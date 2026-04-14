@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Coming soon"
+    "text": "CV\nComing soon."
   },
   {
     "objectID": "photography.html",
@@ -33,12 +33,5 @@
     "title": "Angela Lülle",
     "section": "",
     "text": "Hi, I’m Angela! I’m a PhD candidate in Economics at the University of Namur, where I work under the supervision of Catherine Guirkinger. I am a research fellow of the F.N.R.S. and affiliated with the Center of Research in Development Economics (CRED-DeFiPP).\n\n\n`"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "CV\nComing soon."
   }
 ]
