@@ -1,5 +1,14 @@
 ---
-title: "Research"
+title: ""
+page-layout: full
 ---
 
+::: {.banner-image}
+![](banner3.jpg){width=100%}
+:::
+
+::: {.research-section}
+# Research
+
 Coming soon.
+:::

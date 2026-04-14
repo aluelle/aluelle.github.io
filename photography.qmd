@@ -4,7 +4,7 @@ page-layout: full
 ---
 
 ::: {.banner-image}
-![](banner.png){width=100%}
+![](banner3.jpg){width=100%}
 :::
 
 ::: {.gallery-section}

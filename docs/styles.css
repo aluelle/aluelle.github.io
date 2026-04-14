@@ -199,3 +199,34 @@ body {
     columns: 1;
   }
 }
+
+/* ============================================
+   MOBILE RESPONSIVE
+   ============================================ */
+@media (max-width: 768px) {
+  .about-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 30px auto;
+  }
+
+  .headshot {
+    width: 140px;
+    height: 140px;
+  }
+
+  .headshot img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .bio-text {
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .banner-image img {
+    height: 200px;
+  }
+}

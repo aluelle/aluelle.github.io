@@ -1,6 +1,9 @@
 ---
 title: ""
 page-layout: full
+include-in-header:
+  text: |
+    <meta name="google-site-verification" content="3EGLmUA97VvFgw8FmAAP2sjXAxCZYh0AIcBUpeKbI5M" />
 ---
 
 ::: {.banner-image}

@@ -1,5 +1,14 @@
 ---
-title: "CV"
+title: ""
+page-layout: full
 ---
 
-Coming soon
+::: {.banner-image}
+![](banner.png){width=100%}
+:::
+
+::: {.cv-section}
+# CV
+
+Coming soon.
+:::
