@@ -273,12 +273,14 @@ body {
 
   .headshot {
     width: 140px;
-    height: 140px;
+    height: 190px;
   }
 
   .headshot img {
     width: 140px;
-    height: 140px;
+    height: 190px;
+    object-fit: cover;
+    border-radius: 50%;
   }
 
   .bio-text {
