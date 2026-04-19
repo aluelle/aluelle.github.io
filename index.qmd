@@ -12,7 +12,7 @@ include-in-header:
 
 :::: {.about-section}
 ::: {.headshot}
-![](avatar.jpg)
+![](avatar2.jpg)
 :::
 
 ::: {.bio-text}
