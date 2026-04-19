@@ -10,6 +10,8 @@ page-layout: full
 ::: {.gallery-section}
 # Photography
 
+I love taking pictures, particularly portraits of people (ideally paired with a good conversation). I shoot on a Fujifilm X-T30 and my iPhone.
+
 ::: {.masonry-gallery}
 [![](photos/photo1.jpg)](photos/photo1.jpg)
 [![](photos/photo2.jpg)](photos/photo2.jpg)
