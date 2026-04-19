@@ -8,6 +8,7 @@ website:
   title: "Angela Lülle"
   description: "Angela Lülle — PhD candidate in Economics at the University of Namur. Research in development economics, education, and behavioral economics."
   open-graph: true
+  google-analytics: "G-H9NLEF4VH1"
   navbar:
     logo: logo4.png
     left:
