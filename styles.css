@@ -28,10 +28,10 @@ body > nav.navbar, .navbar {
 .navbar-logo img,
 .navbar img,
 img.navbar-logo {
-  height: 40px !important;
-  min-height: 40px !important;
+  height: 50px !important;
+  min-height: 50px !important;
   width: auto !important;
-  max-width: 250px !important;
+  max-width: 300px !important;
 }
 
 .navbar-title,
@@ -207,6 +207,57 @@ body {
 .research-section h1 {
   font-size: 2rem;
   margin-bottom: 40px;
+}
+
+.research-section h2 {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+  margin-bottom: 30px;
+  margin-top: 50px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.paper {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #eee;
+}
+
+.paper h3 {
+  font-size: 1.15rem;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+
+.paper em {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.paper-header {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 12px;
+}
+
+.paper-thumbnail {
+  width: 150px !important;
+  height: 100px !important;
+  object-fit: cover !important;
+  border-radius: 6px !important;
+  flex-shrink: 0 !important;
+}
+
+.paper-info {
+  flex: 1;
+}
+
+.paper-info h3 {
+  margin-top: 0 !important;
 }
 
 /* ============================================
