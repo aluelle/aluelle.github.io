@@ -10,7 +10,7 @@ page-layout: full
 ::: {.gallery-section}
 # Photography
 
-I love taking pictures, particularly portraits of people (ideally paired with a good conversation). I shoot on a Fujifilm X-T30 and my iPhone.
+I love taking pictures, particularly portraits of people (ideally paired with a good conversation). I shoot on a Fujifilm X-T30 and my iPhone. These are some of my favorite shots from travels and fieldwork in Benin.   
 
 ::: {.masonry-gallery}
 [![](photos/photo1.jpg)](photos/photo1.jpg)
