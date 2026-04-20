@@ -10,5 +10,5 @@ page-layout: full
 ::: {.cv-section}
 # CV
 
-Coming soon.
+You can download my CV [here](cv.pdf).
 :::

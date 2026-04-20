@@ -302,3 +302,17 @@ body {
     columns: 1;
   }
 }
+
+/* ============================================
+   CV PAGE
+   ============================================ */
+.cv-section {
+  max-width: 900px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+.cv-section h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
